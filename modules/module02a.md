@@ -51,7 +51,7 @@ In this module, you'll walk through how to register and scan data sources. You'l
 
     ![Access Control Members](../images/module02/Mod2A-purview4.png)
     
-5. select **Purview account (1)** from the **Managed Identity** drop-down menu, select the managed identity **pvlab-<inject key="Deployment ID" enableCopy="false" />-pv(2)**, click **Select (3)**. Finally, click **Review + assign**.
+5. Select **Microsoft Purview account (1)** from the **Managed Identity** drop-down menu, select the managed identity **pvlab-<inject key="Deployment ID" enableCopy="false" />-pv(2)**, click **Select (3)**. Finally, click **Review + assign**.
    
     ![Access Control Members](../images/module02/prv37.png)
 
